@@ -44,4 +44,4 @@ Foody is based on the MVVM architecture and the Repository pattern.
 
 ## Ktor API
 
-[This API](https://github.com/CherifiMi/KMongo-Api) was one of my first test on writing a ktor api, making a MongoDB cluster and connecting all of them
+[This API](https://github.com/CherifiMi/To-Do-Api) was one of my first test on writing a ktor api, making a MongoDB cluster and connecting all of them
